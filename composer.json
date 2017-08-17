@@ -1,0 +1,19 @@
+{
+    "autoload": {
+        "psr-4": {
+            "LearningPhp\\":"app/LearningPhp"
+        }
+    },
+    "require": {
+        "respect/validation": "^1.1",
+        "slim/slim": "2.0",
+        "slim/views": "0.1.*",
+        "twig/twig": "^2.4",
+        "phpmailer/phpmailer": "~5.2",
+        "league/oauth2-google": "^2.0",
+        "hassankhan/config": "^0.10.0",
+        "illuminate/database": "^5.4",
+        "alexgarrett/violin": "^2.2",
+        "ircmaxell/random-lib": "^1.2"
+    }
+}
